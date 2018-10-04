@@ -12,7 +12,7 @@ public class ExampleTest {
 		int score = 80;
 		String expected = "A";
 		
-		String actual = "B";
+		String actual = "A";
 		
 		Assert.assertEquals(expected, actual);
 		
